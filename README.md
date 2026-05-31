@@ -1,16 +1,22 @@
-## Hi there 👋
+# Guillermo Jimenez
 
-<!--
-**guillebuilds/guillebuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer building small AI-assisted apps, automations, and personal systems.
 
-Here are some ideas to get you started:
+I like compact tools, obvious links, clean interfaces, and software that turns everyday friction into something usable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most project repos stay private while they are changing. Public demos, notes, and links live on my site.
+
+## Public Work
+
+- [Personal site](https://guillermojimenez.dev) - projects, notes, experiments, and current links.
+- [LiftPace](https://liftpace.app) - Telegram-first strength log for tracking sets and seeing progress clearly.
+- [PlateClarity](https://plateclarity.com) - chat-first nutrition and food-quality ledger.
+- [SettleBite](https://settlebite.com) - group dinner splitting.
+- [MorrowWell](https://morrowwell.com) - weekly routine system.
+- [StackLens](https://stacklens.tools) - supplement timing visualizer.
+- [TokenPace](https://tokenpace.app) - AI usage pacing calculator.
+
+## Elsewhere
+
+- X: https://x.com/guille_ji
+- LinkedIn: https://www.linkedin.com/in/guillermo-jimenez-a093b413a/
