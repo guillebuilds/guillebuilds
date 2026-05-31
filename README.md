@@ -9,7 +9,7 @@ Most project repos stay private while they are changing. Public demos, notes, an
 ## Live Projects
 
 - [Personal site](https://guillermojimenez.dev) - projects, notes, experiments, and current links.
-- [LiftPace](https://liftpace.app) - Telegram-first strength log for tracking sets and seeing progress clearly.
+- [LiftPace](https://liftpace.app) - Chat-first strength log for tracking sets and seeing progress clearly.
 - [PlateClarity](https://plateclarity.com) - chat-first nutrition and food-quality ledger.
 - [SettleBite](https://settlebite.com) - group dinner splitting.
 - [MorrowWell](https://morrowwell.com) - weekly routine system.
