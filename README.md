@@ -1,6 +1,6 @@
 # Guillermo Jimenez
 
-Software engineer building small AI-assisted apps, automations, and personal systems.
+Software engineer building AI-assisted apps, automations, and personal systems.
 
 I like compact tools, obvious links, clean interfaces, and software that turns everyday friction into something usable.
 
