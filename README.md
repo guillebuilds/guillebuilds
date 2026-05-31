@@ -12,8 +12,8 @@ Most project repos stay private while they are changing. Public demos, notes, an
 - [LiftPace](https://liftpace.app) - Chat-first strength log for tracking sets and seeing progress clearly.
 - [PlateClarity](https://plateclarity.com) - chat-first nutrition and food-quality ledger.
 - [SettleBite](https://settlebite.com) - group dinner splitting.
-- [MorrowWell](https://morrowwell.com) - weekly routine system.
 - [StackLens](https://stacklens.tools) - supplement timing visualizer.
+- [MorrowWell](https://morrowwell.com) - weekly routine system.
 - [TokenPace](https://tokenpace.app) - AI usage pacing calculator.
 
 ## Elsewhere
