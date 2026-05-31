@@ -6,7 +6,7 @@ I like compact tools, obvious links, clean interfaces, and software that turns e
 
 Most project repos stay private while they are changing. Public demos, notes, and links live on my site.
 
-## Public Work
+## Live Projects
 
 - [Personal site](https://guillermojimenez.dev) - projects, notes, experiments, and current links.
 - [LiftPace](https://liftpace.app) - Telegram-first strength log for tracking sets and seeing progress clearly.
