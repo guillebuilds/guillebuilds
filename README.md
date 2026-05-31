@@ -18,5 +18,6 @@ Most project repos stay private while they are changing. Public demos, notes, an
 
 ## Elsewhere
 
-- X: https://x.com/guille_ji
-- LinkedIn: https://www.linkedin.com/in/guillermo-jimenez-a093b413a/
+- [Personal site](https://guillermojimenez.dev)
+- [X / @guille_ji](https://x.com/guille_ji)
+- [LinkedIn](https://www.linkedin.com/in/guillermo-jimenez-a093b413a/)
