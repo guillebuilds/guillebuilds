@@ -11,6 +11,7 @@ Most project repos stay private while they are changing. Public demos, notes, an
 - [Personal site](https://guillermojimenez.dev) - projects, notes, experiments, and current links.
 - [LiftPace](https://liftpace.app) - Chat-first strength log for tracking sets and seeing progress clearly.
 - [PlateClarity](https://plateclarity.com) - chat-first nutrition and food-quality ledger.
+- [MacroRoute](https://macroroute.app) - nearby macro-friendly meal planner for real orders that fit your macro goals.
 - [SettleBite](https://settlebite.com) - group dinner splitting.
 - [StackLens](https://stacklens.tools) - supplement timing visualizer.
 - [MorrowWell](https://morrowwell.com) - weekly routine system.
