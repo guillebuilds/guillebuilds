@@ -14,7 +14,6 @@ Most project repos stay private while they are changing. Public demos, notes, an
 - [MacroRoute](https://macroroute.app) - nearby macro-friendly meal planner for real orders that fit your macro goals.
 - [SettleBite](https://settlebite.com) - group dinner splitting.
 - [StackLens](https://stacklens.tools) - supplement timing visualizer.
-- [MorrowWell](https://morrowwell.com) - weekly routine system.
 - [TokenPace](https://tokenpace.app) - AI usage pacing calculator.
 
 ## Elsewhere
